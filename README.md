@@ -36,3 +36,10 @@ Manual testing has been performed.
 6. Search by Registration Number <br> <img src="previews/SearchByRegNum.png"><br><br>
 7. List <br> <img src="previews/List.png"><br><br>
 8. End of Semester <br> <img src="previews/EndOfSemester.png"><br><br>
+
+## Contributors
+1. Lean Wei Liang
+2. Pang Jia Jin
+3. Seow Kai Sheng
+4. Tan Yuan Jie
+5. Wo Zi Rock
