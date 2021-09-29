@@ -20,12 +20,12 @@
 Import the files into your project.<br>
 Open and run the project with Visual Studio (with .NET desktop development installed).
 
-## Test
-Manual testing has been performed.
-
 ## Application Design
 ### Class Diagram
 <img src="previews/ClassDiagram.png">
+
+## Test
+Manual testing has been performed.
 
 ## Previews
 1. MainMenu <br> <img src="previews/MainMenu.png"><br><br>
