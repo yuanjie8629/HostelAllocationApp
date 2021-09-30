@@ -29,7 +29,7 @@ Open and run the project with Visual Studio (with .NET desktop development insta
 Manual testing has been performed.
 
 ## Previews
-1. MainMenu <br> <img src="previews/MainMenu.png"><br><br>
+1. Main Menu <br> <img src="previews/MainMenu.png"><br><br>
 2. Add <br> <img src="previews/Add.png"><br><br>
 3. Delete <br> <img src="previews/Delete.png"><br><br>
 4. Modify <br> <img src="previews/Modify.png"><br><br>
